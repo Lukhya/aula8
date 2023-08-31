@@ -1,4 +1,3 @@
-# api para contatos
-Construção de API Rest, utilizando SpringBoot
+# Aula 8 - Linguagem de programação
+Aplicaçao utilizando SpringBoot - Glossário de TI
 Projeto para aula de Linguagem de Programação utilizando conceito de CRUD e persistência em Banco de Dados.
-https://www.oracle.com/br/technical-resources/articles/dsl/crud-rest-sb2-hibernate.html
